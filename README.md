@@ -1,6 +1,6 @@
 # NFT-ETH-Drainer-script
 ETH Stealer / Drainer Template !
-preview
+
 # Features
  1. Inspect Element Detection
  2. Custom Design
